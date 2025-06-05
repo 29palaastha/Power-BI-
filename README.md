@@ -1,5 +1,5 @@
-# Power-BI-
-##Zomato Performance Analysis
+# Zomato Performance Analysis and Dashboard || Power-BI
+
 
 Zomato Top 15 Countries Data Collection and Dashboard.
 Under this project, I collected some information related to Zomato.In this project, we have countries along with their codes and cities where Zomato is performing, the Cuisine offered in restaurants, the Average cost for two people, the Number of table bookings in online delivery and offline delivery, Average rating as per different cities and their restaurants, and the Total votes.
