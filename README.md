@@ -12,4 +12,7 @@ Under this project, I collected some information related to Zomato.In this proje
 6. We use a matrix visual to show countries and the sum of total restaurants running into each country.
 7. Lastly, in a dashboard, we use a table visual to show the total City count by each country.
 This is all about my project, which is related to Zomato's performance in the top 15 countries.
+## Dashboard
+![Zomato Dashboard](https://github.com/user-attachments/assets/a80e3cbe-6627-45d3-a595-f9a3fa718549)
+
 
