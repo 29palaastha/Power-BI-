@@ -20,6 +20,7 @@ This is all about my project, which is related to Zomato's performance in the to
 ![Z2](https://github.com/user-attachments/assets/46c22c9f-26ff-4447-aed5-fb9f9591a72b)
 ![Z3](https://github.com/user-attachments/assets/46220278-7a8d-44e7-a29c-2a285059277f)
 ![Z4](https://github.com/user-attachments/assets/cbca9b40-2c8a-419e-9eb5-71a1b253441e)
-![Z5](https://github.com/user-attachments/assets/4b046c6d-fe4d-40ee-a68a-5429dca6ca41)
-![Z6](https://github.com/user-attachments/assets/fc4dba42-e5bc-4c9c-ac12-4a826eb87a00)
+![Z5](https://github.com/user-attachments/assets/9087913b-bd6a-4c10-a8ea-932a29d32185)
+![Z6](https://github.com/user-attachments/assets/6d63dfa6-7d6a-4e9b-bf57-984ae0644ba0)
+
 
