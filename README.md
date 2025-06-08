@@ -13,6 +13,13 @@ Under this project, I collected some information related to Zomato.In this proje
 7. Lastly, in a dashboard, we use a table visual to show the total City count by each country.
 This is all about my project, which is related to Zomato's performance in the top 15 countries.
 ## Dashboard
-![Zomato Dashboard](https://github.com/user-attachments/assets/a80e3cbe-6627-45d3-a595-f9a3fa718549)
+![Zomato Dashboard](https://github.com/user-attachments/assets/eff24c9b-ede4-4337-b7c5-4523e1301a23)
 
+## Report Pages Overview:
+![Z1](https://github.com/user-attachments/assets/be33923c-e717-4302-a2c6-1ac66706ca07)
+![Z2](https://github.com/user-attachments/assets/46c22c9f-26ff-4447-aed5-fb9f9591a72b)
+![Z3](https://github.com/user-attachments/assets/46220278-7a8d-44e7-a29c-2a285059277f)
+![Z4](https://github.com/user-attachments/assets/cbca9b40-2c8a-419e-9eb5-71a1b253441e)
+![Z5](https://github.com/user-attachments/assets/4b046c6d-fe4d-40ee-a68a-5429dca6ca41)
+![Z6](https://github.com/user-attachments/assets/fc4dba42-e5bc-4c9c-ac12-4a826eb87a00)
 
